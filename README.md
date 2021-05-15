@@ -1,0 +1,2 @@
+# convolutional_neural_networks_for_sentence_classification
+My implementation of the Convolutional Neural Networks for Sentence Classification paper
